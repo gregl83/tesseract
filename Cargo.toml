@@ -1,0 +1,9 @@
+[package]
+name = "tesseract-db"
+version = "0.1.0"
+authors = ["Gregory Langlais <general@gregorylanglais.com>"]
+edition = "2018"
+description = "Tesseract is a high performance Database designed for Event Sourcing"
+license = "MIT"
+
+[dependencies]
